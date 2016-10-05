@@ -1,9 +1,0 @@
--->Negation Feature is implemented
-
-About the Negation Feature:-
-
-•	All the issues concerned to Negation (!) are handled, and tested.
-•	For better visibility, the selected negation values inside the drop downs is given black color.
-Example1:- when user types !bh* or !bh302, this is colored black in the dropdown.
-Example2:- when user types bh*,!bh302  then, the selected value color will be in respective to the bars shown in the graph.
-•	This is same for project dropdown as well.
